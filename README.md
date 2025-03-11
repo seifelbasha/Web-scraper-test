@@ -1,4 +1,4 @@
-# 📊 =Web Scraper
+# 📊 Web Scraper
 
 ## 🔥 Project Overview
 This script scrapes **iPhone prices** from a Web Site and saves the data into an **Excel file**.
