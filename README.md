@@ -1,7 +1,7 @@
-# 📊 Noon.com iPhone Price Scraper
+# 📊 E-commerce Web Scraper Phones Price Scraper
 
 ## 🔥 Project Overview
-This script scrapes **iPhone prices** from [Noon.com](https://www.noon.com) and saves the data into an **Excel file**.
+This script scrapes **iPhone prices** from E-commerce Web and saves the data into an **Excel file**.
 
 ## 🛠 Technologies Used
 - **Python**
