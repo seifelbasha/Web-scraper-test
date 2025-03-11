@@ -10,9 +10,9 @@ This script scrapes **iPhone prices** from [Noon.com](https://www.noon.com) and 
 - **Excel (OpenPyXL)**
 
 ## 🚀 How to Use
-1. Clone the repository:https://github.com/seifelbasha/web-scraping-projects.git
-2. Install dependencies:pip install -r requirements.txt
-3. Run the scraper:python noon_scraper.py
+1. Clone the repository: https://github.com/seifelbasha/web-scraping-projects.git
+2. Install dependencies: pip install -r requirements.txt
+3. Run the scraper: python noon_scraper.py
 4. Check the generated `output_sample.xlsx` file.
 5. 
 ## 📌 Features
