@@ -1,7 +1,7 @@
-# 📊 E-commerce Web Scraper
+# 📊 =Web Scraper
 
 ## 🔥 Project Overview
-This script scrapes **iPhone prices** from E-commerce Web and saves the data into an **Excel file**.
+This script scrapes **iPhone prices** from a Web Site and saves the data into an **Excel file**.
 
 ## 🛠 Technologies Used
 - **Python**
